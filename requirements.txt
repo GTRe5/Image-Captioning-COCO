@@ -1,0 +1,53 @@
+# =============================================================
+# PixelNarrator – Python Dependencies
+# =============================================================
+# Install all at once:
+#   pip install -r requirements.txt
+#
+# GPU (CUDA 12.1) — recommended for training:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#   pip install -r requirements.txt --ignore-requires-python
+#
+# CPU-only (inference / demo only):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt --ignore-requires-python
+#
+# Tested on Python 3.9 – 3.12
+# =============================================================
+
+
+# ── Deep Learning ─────────────────────────────────────────────
+# Install torch/torchvision separately via the PyTorch wheel index
+# (see GPU/CPU notes above) for the correct CUDA build.
+torch
+torchvision
+
+
+# ── Computer Vision & Image Processing ────────────────────────
+Pillow             # Image loading, resizing, format conversion
+pycocotools        # MS COCO annotation API
+
+
+# ── Natural Language Processing ───────────────────────────────
+nltk               # Tokenisation, BLEU scoring
+
+
+# ── Data & Scientific Computing ───────────────────────────────
+numpy              # Array operations
+pandas             # Results tables, CSV export
+
+
+# ── Visualisation ─────────────────────────────────────────────
+matplotlib         # Training curves, attention heat-maps
+
+
+# ── Progress & Utilities ──────────────────────────────────────
+tqdm               # Training progress bars
+
+
+# ── Demo Application ──────────────────────────────────────────
+gradio             # Local web UI (app.py)
+
+
+# ── Notebook / Dataset Download (optional) ────────────────────
+kagglehub          # Kaggle dataset download helper (notebook only)
