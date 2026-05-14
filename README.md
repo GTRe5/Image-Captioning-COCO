@@ -1,3 +1,5 @@
+![Banner](./assets/logo.jpg)
+
 <div align="center">
 
 # 🖼️ PixelNarrator
@@ -109,7 +111,7 @@ Pretrained models use **differential learning rates**: `lr × 0.1` for the froze
 ## Project Structure
 
 ```
-PixelNarrator/
+Image-Captioning-COCO/
 │
 ├── PixelNarrator.ipynb        # End-to-end training notebook
 ├── app.py                     # Gradio local demo
