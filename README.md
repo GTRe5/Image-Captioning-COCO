@@ -1,4 +1,4 @@
-![Banner](./assets/logo.jpg)
+![Banner](./assets/logo.svg)
 
 <div align="center">
 
