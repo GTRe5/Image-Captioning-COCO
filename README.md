@@ -1,8 +1,6 @@
 ![Banner](./assets/logo.svg)
 
-<div align="center">
-
-# 🖼️ PixelNarrator
+# PixelNarrator Image Captioning
 
 ### Image Captioning with MS COCO · CNN Encoder + LSTM Decoder + Bahdanau Attention
 
@@ -13,8 +11,6 @@
 [![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](LICENSE)
 
 *Automatically describe any image — with per-word attention heat-maps showing exactly where the model looks.*
-
-</div>
 
 ---
 
