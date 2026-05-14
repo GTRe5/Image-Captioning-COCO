@@ -138,8 +138,8 @@ PixelNarrator/
 ### 1 · Environment Setup
 
 ```bash
-git clone https://github.com/GTRe5/PixelNarrator.git
-cd PixelNarrator
+git clone https://github.com/GTRe5/Image-Captioning-COCO.git
+cd Image-Captioning-COCO
 
 # Create and activate a virtual environment (recommended)
 python -m venv .venv
