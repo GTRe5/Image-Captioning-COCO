@@ -4,7 +4,7 @@
 
 ### Image Captioning with MS COCO · CNN Encoder + LSTM Decoder + Bahdanau Attention
 
-[![Python](https://img.shields.io/badge/Python-3.12.3%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-4.x-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://gradio.app/)
 [![Dataset](https://img.shields.io/badge/Dataset-MS%20COCO%202017-5C9BD6?style=flat-square)](https://cocodataset.org/)
